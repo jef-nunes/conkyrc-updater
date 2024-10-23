@@ -2,7 +2,7 @@
 *What this program does:*
 Takes a list of paths for user custom conky configuration files and overwrites the user scope ~/.conkyrc file with the content from the selected custom file.
 
-## Adjusting settings
+## Adjust settings
 In the settings.py insert the paths for your custom conkyrc files and adjust other paths as needed 
 
 ## Running
