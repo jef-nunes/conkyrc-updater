@@ -9,7 +9,7 @@ In the settings.py insert the paths for your custom conkyrc files and adjust oth
 On script call, include a first argument with the index of selected conkyrc file, relative to its position on settings.py list.
 For running conky after changes, pass the --run flag.
 
-Example:
+Example:<br>
 **1. Pass the first element on settings.py path list (index 0)**
 ```sh
 python3 conkyrc_updater.py 0
