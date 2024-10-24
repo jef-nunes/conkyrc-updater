@@ -10,7 +10,7 @@ On script call, include a first argument with the index of selected conkyrc file
 For running conky after changes, pass the --run flag.
 
 Example:<br>
-**1. Pass the first element on settings.py path list (index 0)**
+**1. Pass the first element on settings.py path list**
 ```sh
 python3 conkyrc_updater.py 0
 ```
