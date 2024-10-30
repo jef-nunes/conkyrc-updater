@@ -1,5 +1,4 @@
 ### About
-*What this program does:*<br>
 Takes a list of paths for user custom conky configuration files and overwrites the user scope ~/.conkyrc file with the content from the selected custom file. In the settings.py insert the paths for your custom conkyrc files and adjust path for backup file.
 
 ### Running
